@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @RohanKumar122
-- 👀 I’m interested in Development & Problem Solving
-- 🌱 I’m currently learning new Technology to contribute
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
-- - 📫 Reach me out through linkdn @https://www.linkedin.com/in/rohan-kumar-9b2a76186/
+## 👋 Hey there, I'm **Rohan Kumar!**
 
-<!-- -
-RohanKumar122/RohanKumar122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- -->
+### 🚀 Passionate Developer | Problem Solver | Tech Enthusiast
+
+- 👀 I’m deeply interested in **development**, from building robust applications to solving complex problems.  
+- 🌱 Currently expanding my knowledge in the **latest technologies** to make meaningful contributions to the developer community.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohan-kumar-9b2a76186/) for networking and collaboration opportunities!
+
+---
