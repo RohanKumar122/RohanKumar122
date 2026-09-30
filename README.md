@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI Data Engineer with 4 years of experience** building scalable data platforms, ETL/ELT pipelines, automation systems, and AI-powered applications.
+I'm an **AI Data Engineer with 4+ years of experience** building scalable data platforms, ETL/ELT pipelines, automation systems, and AI-powered applications.
 
 My core experience includes:
 
