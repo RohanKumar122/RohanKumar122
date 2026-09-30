@@ -228,22 +228,6 @@ B.Tech. in Electronics Engineering · CGPA: **8.60 / 10**
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanKumar122&show_icons=true&theme=algolia&hide_border=true" alt="Rohan Kumar's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKumar122&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohanKumar122&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies">
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
