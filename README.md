@@ -239,6 +239,3 @@ B.Tech. in Electronics Engineering · CGPA: **8.60 / 10**
   </a>
 </p>
 
-<p align="center">
-  <i>Building data systems today, exploring intelligent systems tomorrow.</i>
-</p>
